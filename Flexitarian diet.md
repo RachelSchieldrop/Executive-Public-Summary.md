@@ -1,5 +1,7 @@
 # **Executive Public Summary**
-By: Mia Allanson, Virginia Capobianco, Alyssa Gallant, Rachel Schieldrop
+*iSci 3A12 Climate Change, Fall 2024*
+
+Submission by: **Mia Allanson, Virginia Capobianco, Alyssa Gallant, Rachel Schieldrop** 
 
 ## **The Flexitarian Diet - Climate Change Solution** 
 
