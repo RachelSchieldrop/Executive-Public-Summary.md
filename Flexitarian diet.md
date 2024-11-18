@@ -1,4 +1,5 @@
 # **Executive Public Summary**
+By: Mia Allanson, Virginia Capobianco, Alyssa Gallant, Rachel Schieldrop
 
 ## **The Flexitarian Diet - Climate Change Solution** 
 
@@ -21,3 +22,21 @@ The flexitarian diet is a balanced approach that does not demand a complete life
 Despite the benefits associated with the flexitarian diet, several limitations to its implementation must be considered in future research. These limitations involve incorporating animal by-products such as milk, eggs and honey into the flexitarian diet; considering product packaging and its environmental impact; exploring the role of cultured meat in the flexitarian diet; and considering the impact of this diet on farmers.  
 
 In conclusion, the flexitarian diet acts as a promising solution to climate change addressing the environmental, health and economic feasibility of its implementation from a human behaviour perspective.  
+
+# **References** 
+
+Godfray, H. Charles J., Paul Aveyard, Tara Garnett, Jim W. Hall, Timothy J. Key, Jamie Lorimer, Ray T. Pierrehumbert, Peter Scarborough, Marco Springmann, and Susan A. Jebb. 2018. “Meat Consumption, Health, and the Environment.” Science 361 (6399): eaam5324. https://doi.org/10.1126/science.aam5324.
+
+Grossi, Giampiero, Pietro Goglio, Andrea Vitali, and Adrian G Williams. 2019. “Livestock and Climate Change: Impact of Livestock on Climate and Mitigation Strategies.” Animal Frontiers 9 (1): 69–76. https://doi.org/10.1093/af/vfy034.
+
+Jones, Andrew D, Lesli Hoey, Jennifer Blesh, Laura Miller, Ashley Green, and Lilly Fink Shapiro. 2016. “A Systematic Review of the Measurement of Sustainable Diets.” Advances in Nutrition 7 (4): 641–64. https://doi.org/10.3945/an.115.011015.
+
+Min, Byeng-Ryel, Seul Lee, Hyunjung Jung, Daniel N. Miller, and Rui Chen. 2022. “Enteric Methane Emissions and Animal Performance in Dairy and Beef Cattle Production: Strategies, Opportunities, and Impact of Reducing Emissions.” Animals : An Open Access Journal from MDPI 12 (8): 948. https://doi.org/10.3390/ani12080948.
+
+Pais, Daniel Francisco, António Cardoso Marques, and José Alberto Fuinhas. 2022. “The Cost of Healthier and More Sustainable Food Choices: Do Plant-Based Consumers Spend More on Food?” Agricultural and Food Economics 10 (1): 18. https://doi.org/10.1186/s40100-022-00224-9.
+
+Rayan, Rehab. 2020. “REVIEW ON THE BURGER EFFECT: BEEF INDUSTRY AND CLIMATE CHANGE.” Global Journal of Public Health Medicine, June, 164–67. https://doi.org/10.37557/gjphm.v2iSP1.39.
+
+Sijtsema, Siet J., Hans Dagevos, Ghalia Nassar, Mariët van Haaster de Winter, and Harriëtte M. Snoek. 2021. “Capabilities and Opportunities of Flexitarians to Become Food Innovators for a Healthy Planet: Two Explorative Studies.” Sustainability 13 (20): 11135. https://doi.org/10.3390/su132011135.
+
+Watt, T. 2020. “What Is the Flexitarian Diet?” The Body Architects Inc. - Atlanta Personal Trainer and Nutritionist. March 3, 2020. https://www.thebodyarchitectsinc.com/blog/what-is-the-flexitarian-diet.
