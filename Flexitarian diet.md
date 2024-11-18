@@ -24,10 +24,8 @@ Many people think that the flexitarian diet is more expensive than traditional m
 ### **Behavioural and Social Considerations**
 The flexitarian diet is a balanced approach that does not demand large-scale lifestyle changes, making it more socially and psychologically acceptable. However, common challenges that are associated with adopting the flexitarian diet include misconceptions regarding health benefits, confidence in the diet and a lack of education surrounding sustainable diets. These challenges can be addressed by teaching the public about the importance of the flexitarian diet and in turn, can make this dietary change more appealing to individuals (Sijtsema et al. 2021).       
 
-### **Limitations and Areas for Future Research** 
-Despite the benefits associated with the flexitarian diet, several limitations to its implementation must be considered in future research. These limitations involve incorporating animal by-products such as milk, eggs and honey into the flexitarian diet; considering product packaging and its environmental impact; exploring the role of cultured meat in the flexitarian diet; and considering the impact of this diet on farmers.  
-
-In conclusion, the flexitarian diet acts as a promising solution to climate change addressing the environmental, health and economic feasibility of its implementation from a human behaviour perspective.  
+### **Conclusion: Limitations and Future Research** 
+Despite the benefits associated with the flexitarian diet, several limitations to its implementation must be considered in future research. These limitations involve incorporating animal by-products such as milk, eggs and honey into the flexitarian diet; considering product packaging and its environmental impact; exploring the role of cultured meat in the flexitarian diet; and considering the impact of this diet on farmers. In conclusion, the flexitarian diet acts as a promising solution to climate change addressing the environmental, health and economic feasibility of its implementation from a human behaviour perspective.  
 
 # **References** 
 
