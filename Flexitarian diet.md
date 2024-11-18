@@ -7,7 +7,7 @@ Submission by: **Mia Allanson, Virginia Capobianco, Alyssa Gallant, Rachel Schie
 
 As climate change is quickly advancing, finding sustainable diets is important when considering ways to reduce environmental impacts (Rayan 2020). One option for this is the flexitarian diet, which involves consuming fewer meat products and more plant products (Figure 1). This diet is beneficial for the environment, affordable, improves human health, and can be easily incorporated into everyday life (Jones et al. 2016). This summary looks at the research behind the flexitarian diet and how it could be implemented as a practical solution for tackling climate change.
 
-<p align="center"> 
+
 Figure 1: The guidelines of the flexitarian diet. Foods include mostly fruits and vegetables, some whole grain and plant-based proteins (legumes and tofu), small amounts of nuts, dairy, eggs, and oils and little to no meat products (Watt 2020).
 
   ### **Environmental Benefits** 
